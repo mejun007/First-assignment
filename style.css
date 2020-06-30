@@ -1,0 +1,52 @@
+body{
+    margin: 0px;
+}
+h1{
+    font-family: sans-serif;
+
+}
+.highlight-name{
+    color:rgb(230, 59, 116);
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left:4%;
+}
+.half-width img{
+    width: 100%;
+    padding-top: 10%;
+}
+#move{
+    text-align:center;
+    padding-top: 10%;
+}
+#bold-name{
+    font-size:50px;
+}
+.top-banner{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    }
+section{
+    height: 500px;
+}
+p{
+    color: dimgray;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, rgb(228, 63, 173),tomato);
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700px;
+  }
+  .link-button:hover{
+    color: palegreen;
+    transition: .4s;}
+    
+    
+        
